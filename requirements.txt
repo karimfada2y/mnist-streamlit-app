@@ -1,6 +1,0 @@
-streamlit
-numpy
-pillow
-scikit-learn==1.6.1
-scipy
-joblib
